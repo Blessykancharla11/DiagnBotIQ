@@ -3,6 +3,8 @@
 
 # DiagnoBotIQ
 
+<img width="1278" alt="Screenshot 2024-12-19 at 4 49 24 PM" src="https://github.com/user-attachments/assets/bf57ccb4-3ff3-4562-9f0a-95798533556f" />
+
 **DiagnoBotIQ** is an AI-driven health assistant that empowers users with timely disease predictions, actionable advice, and connections to healthcare professionals. Built with machine learning and natural language processing (NLP), it bridges the gap between technology and accessible healthcare.
 
 ---
@@ -50,6 +52,8 @@
 5. Open the app in your browser at `http://127.0.0.1:5000`.
 
 ---
+<img width="1279" alt="Screenshot 2024-12-19 at 4 49 33 PM" src="https://github.com/user-attachments/assets/b5810144-1caa-4d46-a7b9-8c10c294fe51" />
+
 
 ## Usage
 
@@ -98,6 +102,11 @@
 Contributions are welcome! If you'd like to enhance DiagnoBotIQ, feel free to fork the repository and submit a pull request.
 
 ---
+
+
+Uploading 1734607239859005.mp4…
+
+
 
 ## License
 
