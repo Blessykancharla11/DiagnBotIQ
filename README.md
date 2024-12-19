@@ -103,8 +103,10 @@ Contributions are welcome! If you'd like to enhance DiagnoBotIQ, feel free to fo
 
 ---
 
+## Video 
 
-
+[You can see the sample video of DiagnoBotIQ , How it works](https://drive.google.com/file/d/1wsTZgnFvY6UZ6D-qAVEIR9642wZLzX4k/view?usp=drive_link
+)
 
 
 ## License
